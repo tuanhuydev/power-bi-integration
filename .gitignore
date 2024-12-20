@@ -1,8 +1,15 @@
+# OS
+.DS_Store
+
 # Ignore virtual environment
 .venv/
+
+# Ignore depenedencies
+node_modules/
 
 # Ignore Python cache files
 __pycache__/
 
+# Environment variables
 .env
 
